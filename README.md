@@ -1,2 +1,0 @@
-# gitexample
-new repo
